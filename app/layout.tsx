@@ -30,6 +30,10 @@ export default function RootLayout({
     <html lang="en">
       <head>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+      {/* for better seo and google search console */}
+      <meta name="google-site-verification" content="AhRpix9marE60R9sL0nklbnW35Kzi9aQwevDllPBLk4" />
+
       </head>
      <body className={`${jetbrains.className} scroll-smooth bg-gradient-to-br from-[#0a0a0a] via-[#1e0f2f] to-[#000000] text-white`}>
         {children}
