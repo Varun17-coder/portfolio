@@ -47,7 +47,7 @@ export default function Navbar() {
         <a href="#projects" className="hover:text-purple-400 transition" aria-label="Projects">
           <Folder size={18} />
         </a>
-        <a href="#contact" className="hover:text-purple-400 transition" aria-label="Contact">
+        <a href="#resume" className="hover:text-purple-400 transition" aria-label="Contact">
           <Mail size={18} />
         </a>
       </div>
