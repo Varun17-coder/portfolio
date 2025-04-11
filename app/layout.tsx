@@ -11,9 +11,9 @@ export const metadata: Metadata = {
     authors: [{ name: "VarunAndekar" }],
     creator: "VarunAndekar",
     openGraph: {
-      title: "VarunAndekar | Software Engineer Portfolio",
+      title: "VarunAndekar",
       description: "Building modern web solutions with creativity and code.",
-      url: "https://VarunAndekar.vercel.app",
+      url: "https://varunandekar.vercel.app",
       siteName: "VarunAndekar Portfolio",
       locale: "en_US",
       type: "website",
